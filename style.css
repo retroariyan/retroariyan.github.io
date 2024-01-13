@@ -493,8 +493,13 @@ section .title::after {
 
 .teams .carousel .card .text {
     font-size: 25px;
-    font-weight: 500;
+    font-weight: 1000;
     margin: 10px 0 7px 0;
+}
+.teams .carousel .card .ttt {
+    font-size: 16px;
+    font-weight: 1000;
+    margin: 5px 0 3px 0;
 }
 
 .teams .carousel .card img {
